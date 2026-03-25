@@ -1,0 +1,15 @@
+<!--to html-->
+<style>
+  .text-sample {
+    font-size: 24px;              /* i. size */
+    font-weight: bold;            /* ii. weight */
+    font-style: italic;           /* iii. style */
+    text-decoration: underline;    /* iv. decoration */
+    text-transform: uppercase;     /* v. transformation */
+    text-align: center;           /* vi. alignment */
+  }
+</style>
+
+<div class="text-sample">
+  Demonstrating Font and Text Properties
+</div>
